@@ -1,1 +1,1 @@
-# -KAIST-Abnormaly-Detection
+# KAIST-Abnormaly-Detection
